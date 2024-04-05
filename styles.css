@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(to right, #b92b27, #1565c0);
+}
+
+.card {
+    text-align: center;
+    width: auto;
+    margin: 40px auto;
+}
